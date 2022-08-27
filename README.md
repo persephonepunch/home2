@@ -1,2 +1,2 @@
-# home2
+# homesample
 Created with CodeSandbox
